@@ -5,13 +5,13 @@ permalink: /
 subtitle: At the intersection of science, philosophy, and meaning.
 
 profile:
-  align: center
+  align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>probably boring someone about my latest revelation in something like post-ironic hashtag culture on TikTok</p>
 
-news: true # includes a list of news items
+thoughts: true # includes a list of my thoughts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
