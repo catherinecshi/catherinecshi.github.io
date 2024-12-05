@@ -195,6 +195,13 @@ ul.task-list input[type="checkbox"] {
 .profile {
   width: 100%;
 
+  img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+  }
+
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
@@ -217,7 +224,7 @@ ul.task-list input[type="checkbox"] {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 50%;
 
     .address {
       p {
